@@ -3,5 +3,5 @@ docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 valkey/valkey:8
---platform=linux/arm64 redis 
+--platform=linux/arm64 redis
 
